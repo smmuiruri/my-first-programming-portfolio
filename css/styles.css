@@ -20,3 +20,6 @@ img {
         color: red;
         text-align:center;
       }
+      .important    {
+          font-style: italic;
+      }
