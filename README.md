@@ -12,7 +12,7 @@
 ## Technologies Used
 {It has been writen using HTML ans CSS languages.}
 ## Support and contact details
-{ Should you run into any issues or have questions, ideas or concerns and also to do contribution, kindly feel free to contact me on <smmuiruri@gmail class="com"></smmuiruri@gmail>.}
+{ Should you run into any issues or have questions, ideas or concerns and also to do contribution, kindly feel free to contact me on smmuiruri@gmail.com }
 ### License
 *{This application can be used under MIT LISENCE. See below for more details on licensing.}*
 Copyright (c) {2020} **{Samwel Muiruri}**
